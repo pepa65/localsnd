@@ -2,6 +2,7 @@
 name = "localsnd"
 version = "0.6.7"
 edition = "2024"
+rust_version= "1.88.0"
 authors = ["zpp0196 <zpp0196@gmail.com>", "github.com/pepa65"]
 description = "CLI implementation of localsend"
 repository = "https://github.com/pepa65/localsnd"
