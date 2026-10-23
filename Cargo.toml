@@ -1,6 +1,6 @@
 [package]
 name = "localsnd"
-version = "0.6.11"
+version = "0.6.12"
 edition = "2024"
 rust_version= "1.88.0"
 authors = ["zpp0196 <zpp0196@gmail.com>", "github.com/pepa65"]
